@@ -1,0 +1,9 @@
+{
+  "Author": "MegaPiggy",
+  "Name": "Persistent Markers",
+  "ModGUID": "megapiggy.persistentmarkers",
+  "Entrypoint": "PersistentMarkers.Main/Initialize",
+  "Version": "1.0",
+  "ModAssembly": "PersistentMarkers.dll",
+  "MinWinchVersion": "alpha-1.4"
+}
