@@ -20,13 +20,7 @@
 	<PackageReference Include="DredgeGameLibs" Version="1.2.0" />
 	<PackageReference Include="Lib.Harmony" Version="2.2.2" />
 	<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-  </ItemGroup>
-
-  <ItemGroup>
-	<Reference Include="Winch">
-	  <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\DREDGE\Winch.dll</HintPath>
-	  <Private>False</Private>
-	</Reference>
+    <PackageReference Include="Winch" Version="0.3.1" />
   </ItemGroup>
 
   <ItemGroup>
