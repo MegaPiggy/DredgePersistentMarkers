@@ -11,7 +11,7 @@
   <PropertyGroup>
 	<DebugType>portable</DebugType>
 	<OutputPath>./bin</OutputPath>
-	<AssemblyVersion>1.0.*</AssemblyVersion>
+	<AssemblyVersion>1.1.*</AssemblyVersion>
 	<Deterministic>False</Deterministic>
 	<AllowUnsafeBlocks>True</AllowUnsafeBlocks>
   </PropertyGroup>
